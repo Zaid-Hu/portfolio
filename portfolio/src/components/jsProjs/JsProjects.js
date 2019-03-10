@@ -5,7 +5,7 @@ class JsProjects extends React.Component {
     projects: [
       {
         title: "Travel",
-        imageUrl: "../../images/clearView-min.png",
+        imageUrl: "./images/clearView-min.png",
         targetUrl: "https://webababy.github.io/samleTravelSite/"
       },
       {
