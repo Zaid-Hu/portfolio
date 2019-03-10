@@ -9,7 +9,6 @@ class Menu extends React.Component {
       item.classList.remove("teal");
     });
     e.target.className += " active teal";
-    console.log(links);
   };
 
   render() {

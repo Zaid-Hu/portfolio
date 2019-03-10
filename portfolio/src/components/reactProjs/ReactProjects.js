@@ -5,17 +5,17 @@ class ReactProjects extends React.Component {
     projects: [
       {
         title: "youtube API",
-        imageUrl: "/images/youtubevedios-min.png",
+        imageUrl: "portfolio/images/youtubevedios-min.png",
         targetUrl: "https://webababy.github.io/youtubevideos/"
       },
       {
         title: "image waterfall",
-        imageUrl: "/images/imagewaterfall-min.png",
+        imageUrl: "portfolio/images/imagewaterfall-min.png",
         targetUrl: "https://webababy.github.io/imageWaterfall/"
       },
       {
         title: "robot image show",
-        imageUrl: "/images/robotfriends-min.png",
+        imageUrl: "portfolio/images/robotfriends-min.png",
         targetUrl: "https://webababy.github.io/robofriends/"
       }
     ]

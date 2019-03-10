@@ -5,17 +5,17 @@ class JsProjects extends React.Component {
     projects: [
       {
         title: "Travel",
-        imageUrl: "./images/clearView-min.png",
+        imageUrl: "portfolio/images/clearView-min.png",
         targetUrl: "https://webababy.github.io/samleTravelSite/"
       },
       {
         title: "Recipe finder",
-        imageUrl: "/images/food2fork-min.png",
+        imageUrl: "portfolio/images/food2fork-min.png",
         targetUrl: "https://webababy.github.io/food2forkAPIProjOnline/"
       },
       {
         title: "Omnifood",
-        imageUrl: "/images/Omnifood-min.png",
+        imageUrl: "portfolio/images/Omnifood-min.png",
         targetUrl: "https://webababy.github.io/foodSiteStatic/"
       }
     ]
